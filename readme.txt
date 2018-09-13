@@ -1,0 +1,1 @@
+这个项目主要解决springboot+redis项目中session共享问题。
